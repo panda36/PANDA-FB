@@ -107,8 +107,8 @@ logo1 = """
 logo2 = """
 
 """
-CorrectUsername = "Pan"
-CorrectPassword = "da"
+CorrectUsername = "Panda"
+CorrectPassword = "pi"
 
 loop = 'true'
 while (loop == 'true'):
