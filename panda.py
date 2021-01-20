@@ -153,7 +153,7 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;97m[1]𝐒𝐓𝐀𝐑𝐓 𝐂𝐫𝐚𝐜𝐤 𝐍𝐮𝐦𝐛𝐞𝐫'
+    print '\x1b[1;97m[1] START CRACKING'
     print '\x1b[1;97m[0] Back'
    
     time.sleep(0.05)
@@ -168,7 +168,7 @@ def action():
         os.system("clear")
         print logo1
         print "PHONE Number [Iraq]"+'\n'
-        print 'Enter any code : ( 770, 750, 771 751, 772, 773, 774, 752, 780 )'
+        print 'Enter any code : ( 770, 750, 771 751, 772, 773, 774, 780 )'
         print '\nPANDA\n'
         try:
             c = raw_input("\033[1;97mCHOOSE : ")
